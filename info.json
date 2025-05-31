@@ -1,8 +1,8 @@
 {
-  "name": "ResetEvolutionPollution",
-  "description": "Reset evolution, clear pollution, and kill all active enemies.",
-  "version": "0.0.5",
-  "title": "Reset Evolution and Pollution",
-  "author": "Strath",
-  "factorio_version": "1.1"
+  "name": "ResetEvolutionPollution-SpaceAge",
+  "description": "Reset evolution, clear pollution, and kill all active enemies. Updated for Space Age. Forked from Strath's Reset Evolution and Pollution mod.",
+  "version": "0.0.2",
+  "title": "Reset Evolution and Pollution - Space Age",
+  "author": "brainmydamage",
+  "factorio_version": "2.0"
 }
